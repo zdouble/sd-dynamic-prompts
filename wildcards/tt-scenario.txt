@@ -1,0 +1,10 @@
+__scenario__
+__scenario2__
+__scenario-fantasy__
+__scenario-romance__
+__scenario-scifi__
+__subject__
+__subject-fantasy__
+__subject-horror__
+__subject-romance__
+__subject-scifi__

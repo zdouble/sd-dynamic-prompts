@@ -1,0 +1,14 @@
+<lora:Armor:0.9:TT>armor
+<lora:Armor:0.9:TT>armor, intricate armor
+<lora:Armor:0.9:TT>armor, decorated armor
+<lora:Armor:0.9:TT>armor, revealing armor
+<lora:Armor:0.9:TT>bikini armor
+<lora:Armor:0.9:TT>armor, [bikini armor]
+<lora:Armor:0.9:TT>revealing armor
+<lora:Armor:0.9:TT>intricate revealing armor
+<lora:Armor:0.9:TT>intricate revealing armor, [bikini armor]
+<lora:Armor:0.9:TT>heavy armor
+<lora:Armor:0.9:TT>japanese armor
+<lora:Armor:0.9:TT>oriental armor
+<lora:Armor:0.9:TT>torn armor
+<lora:Armor:0.9:TT>destroyed armor

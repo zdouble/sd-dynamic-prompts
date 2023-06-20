@@ -1,0 +1,25 @@
+__tt-clothes2__
+__tt-clothes2__, __tt-clothes-extra__
+__tt-clothes2__, __tt-clothes-extra__[::1]
+__tt-clothes2__, __tt-clothes-extra__[::2]
+__tt-clothes2__, __tt-clothes-extra__, __tt-legwear__
+__tt-clothes2__, __tt-clothes-extra__, __tt-legwear__[::1]
+__tt-clothes2__, __tt-clothes-extra__, __tt-panties__, __tt-legwear__
+__tt-clothes2__, __tt-clothes-extra__, __tt-panties__, __tt-legwear__[::1]
+__tt-clothes2__, __tt-panties__, __tt-clothes-extra__, __tt-legwear__
+__tt-clothes2__, __tt-panties__, __tt-clothes-extra__, __tt-legwear__[::1]
+__tt-panties__, __tt-clothes2__, __tt-clothes-extra__
+__tt-panties__, __tt-clothes2__, __tt-clothes-extra__[::1]
+__tt-panties__, __tt-clothes2__, __tt-clothes-extra__, __tt-legwear__
+__tt-panties__, __tt-clothes2__, __tt-clothes-extra__, __tt-legwear__[::1]
+__tt-clothes-swimsuit__
+__tt-clothes-swimsuit__[::1]
+__tt-clothes-swimsuit__[::2]
+__tt-clothes-swimsuit__, __tt-legwear__
+__tt-clothes-swimsuit__, __tt-legwear__[::1]
+__tt-armor__
+__tt-armor__, {fighting stance|__tt-clothes-extra__}
+__tt-armor__, __tt-clothes-extra__, fighting stance
+nude, thighhighs, elbow gloves
+nude, __tt-legwear__
+completely nude

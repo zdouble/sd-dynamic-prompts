@@ -1,0 +1,64 @@
+__jobs__
+__occupation__
+cat, __cat__
+holding a __cat__ cat
+dog, __dog__
+bird, __bird__
+__animal__
+{car|cars|sports car|truck|plane|boat}
+__celebrations__
+__emoji__
+__emoji-combo__
+{eating, |}__food__
+{eating, |}{food|fast food|pizza|burger|two-handed burger, huge burger<lora:hugeTwoHandedBurger_v2:0.8:TT>}
+food, {eating, |}cake<lora:cakeAndFood_10:0.4:MIDD>
+__punk__
+__scifi__
+__robot__{, <lora:mecha_:0.8:MIDD>mecha|}
+<lora:mecha_:0.8:MIDD>mecha{, armor|}{, robot girl|}
+<lora:hKHK416Lora_v20:0.7:TT>gun, weapon, assault rifle, holding gun, aiming
+<lora:m4a1AssaultRifleLORA_v10:0.8:TT>m4a1, gun, assault rifle, holding gun, aiming
+fantasy, fantasy clothes, adventurer, class: __class__
+casting spell, ({fire|ice|water|lightning|earth|fireball|dark|light|beautiful|curse|rainbow|nature|mysterious|colorful} magic:1.2){, magic staff|}
+casting spell, ({fire|ice|water|lightning|dark} magic:1.1){, magic staff|}
+Style-Hamunaptra
+Style-Glass
+Style-Psycho
+Style-Petal
+{Style-Neeko|Style-Empire|Style-Glorious|Style-Winter|Style-Autumn|Style-Renaissance|style-princess}
+{Style-Empire|Style-Neeko|Style-Glorious|Style-Winter|Style-Autumn|Style-Renaissance|style-princess}
+__gen-modifier__
+__genre__
+__mood__
+__mood__[::1]
+__timeofday__
+<lora:seasonsLora72MB_v1Epoch4:0.8>__seasons__
+<lora:seasonsLora72MB_v1Epoch4:0.6>__seasons__
+__seasons__
+__seasons__[::1]
+__render__
+__technique__
+__focus__
+__focus__[::1]
+__focus__[::2]
+__view__
+__view__[::1]
+__bodyframing__
+__bodyframing__[::1]
+__artist__
+__artist-anime__
+__artist-nudity__
+__adj-beauty__
+__noun-romance__
+__noun-romance__[::1]
+__noun-beauty__
+__noun-beauty__[::1]
+__panties-action__
+__torsowear-state__
+__breast-state__
+__fetish__
+__public__
+convenient censoring
+<lora:bdsm_v2:0.8:TT>bdsm, bondage
+__tt-extra__, __tt-extra__
+__tt-extra__, __tt-extra__

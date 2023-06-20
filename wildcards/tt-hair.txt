@@ -1,0 +1,22 @@
+long hair, blunt bangs
+very long hair, blunt bangs
+long hair, blunt bangs, hime cut
+very long straight hair, blunt bangs
+hime cut, blunt bangs, long straight hair
+hime cut
+blunt bangs
+blunt bangs, hime cut
+long hair
+drill hair
+twintails
+very long hair, twintails
+long hair, twintails, drill hair
+messy hair
+long hair, messy hair
+very long hair
+__hairlength__, __hair-female__
+__hairlength__, __hair-female__[::1]
+__hairlength__, __hair-female__[::2]
+__hairlength__, __hair-female__[::3]
+__hairlength__, __hair-female__, __headwear-female__
+__hairlength__, __hair-female__, __headwear-female__[::1]

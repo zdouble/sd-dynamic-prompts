@@ -1,0 +1,2 @@
+#TODO can't really reliably integrate monstergirls yet
+#<lora:aicebergSlimeGirl_v1:0.9>(slime girl:1.2)

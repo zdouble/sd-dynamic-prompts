@@ -1,0 +1,8 @@
+skinny
+slender
+__body-light__
+__body-*__
+skinny, ({pale|dark|__skin-color__} skin:1.{0|05|1|15|2|25})
+slender, ({pale|dark|__skin-color__} skin:1.{0|05|1|15|2|25})
+__body-light__, ({pale|dark|__skin-color__} skin:1.{0|05|1|15|2|25})
+__body-*__, ({pale|dark|__skin-color__} skin:1.{0|05|1|15|2|25})

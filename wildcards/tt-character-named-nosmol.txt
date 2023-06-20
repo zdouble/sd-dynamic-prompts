@@ -1,0 +1,112 @@
+__characters__
+holo, (spice and wolf:0.9), {flat chest|small breasts}, slender, blunt bangs, long hair, animal ears, tail<lora:holoSpiceWolf_v10:0.7:TT>
+holo, (spice and wolf:0.9), {flat chest|small breasts}, slender, blunt bangs, long hair, animal ears, tail<lora:holoSpiceWolf_v10:0.8:TT>
+holo, (spice and wolf:0.9), {flat chest|small breasts}, slender, blunt bangs, long hair, animal ears, tail<lora:holoSpiceWolf_v10:0.9:TT>
+holo, (spice and wolf:0.9), {flat chest|small breasts}, slender, blunt bangs, long hair, animal ears, (tail:0.8)<lora:holoSpiceWolf_v10:0.7:TT>
+holo, (spice and wolf:0.9), {flat chest|small breasts}, slender, blunt bangs, long hair, animal ears, (tail:0.8)<lora:holoSpiceWolf_v10:0.8:TT>
+holo, (spice and wolf:0.9), {flat chest|small breasts}, slender, blunt bangs, long hair, animal ears, (tail:0.8)<lora:holoSpiceWolf_v10:0.9:TT>
+hatsune miku, flat chest
+hatsune miku, small breasts
+hatsune miku
+hatsune miku[::1]
+touhou, hakurei reimu, flat chest
+touhou, hakurei reimu, small breasts
+touhou, hakurei reimu<lora:reimuHakureiTouhou_v10:0.6:TT>
+touhou, hakurei reimu <lora:zunstyle:0.3:OUTALL><lora:reimuHakureiTouhou_v10:0.3:TT>
+<lora:hinanawiTenshiTouhou_v1021:0.8>(touhou:0.9), hinanawi tenshi, flat chest
+touhou <lora:zunstyle:0.4:OUTALL>
+touhou <lora:zunstyle:0.6:OUTALL>
+shuten douji \(fate\), flat chest <lora:shutenDoujiFateGO_shuten:0.8:MIDD>
+shuten douji \(fate\), flat chest <lora:shutenDoujiFateGO_shuten:0.8:MIDD>[::1]
+shuten douji \(fate\), flat chest <lora:shutenDoujiFateGO_shuten:0.8:TT>
+shuten douji \(fate\), flat chest <lora:shutenDoujiFateGO_shuten:0.8:TT>[::1]
+<lora:tohru_v10:0.8:TT>tohru \(maidragon\), kobayashi-san chi no maidragon
+(hayasaka ai:1.1), blonde hair, (expressionless:0.8) (maid:0.8) <lora:hayasakaAiKaguyaSamaWa_v1:0.9:TT>
+<lora:shiroganeKeiKaguyaSama_v1:0.9:TT>kei1, (shirogane kei:1.1), white hair, long hair, hair ornament, black hairband, blue eyes
+<lora:JPMeido:0.8> jp meido, maid
+<lora:NAI-kasane_teto2:0.8:OUTALL> kasane teto, drill hair
+<lora:NAI-kasane_teto2:0.8:OUTALL> kasane teto, drill hair[::1]
+<lora:monaGenshinImpact_v2:0.8:TT> gimona, mona \(genshin impact\), megistus hat
+<lora:monaGenshinImpact_v2:0.8:TT> gimona, mona \(genshin impact\)
+<lora:megumin_v10:0.9:TT>megumin, witch hat
+<lora:megumin_v10:0.8>megumin
+<lora:mememe_1:0.9:TT> me!me!me!, mememe, very long hair, blunt bangs, aqua hair, pink eyes, pink dress, purple sleeves, purple thigh highs
+<lora:steinsGateHukeLora_10:0.4:TT> <lora:mahoSteinsGate0_mahosteinsgate:0.6:TT> steins;gate, hiyajou maho, hukestyle, flat chest, petite
+<lora:steinsGateHukeLora_10:0.4:TT> <lora:mahoSteinsGate0_mahosteinsgate:0.6:TT> steins;gate, hiyajou maho, hukestyle
+<lora:estheticMakiseKurisu_makiv1:0.6:TT> (makise kurisu:1.1), long hair
+<lora:steinsGateHukeLora_10:0.4:TT> <lora:estheticMakiseKurisu_makiv1:0.4:TT> (makise kurisu:1.1), long hair, hukestyle
+<lora:komiShoukoManbagiRumiko_v10:0.6:TT> (komi shouko:1.1), (komi-san wa komyushou desu:0.8), long hair, blunt bangs
+<lora:komiShoukoManbagiRumiko_v10:0.8:TT> komiShouko, blunt bangs, long hair
+<lora:komiShoukoManbagiRumiko_v10:0.8:TT> (manbagiRumiko:1.3), blonde hair, side ponytail, (dark skin:1.1)
+<lora:komiShoukoManbagiRumiko_v10:0.8:TT> (onemineNene:1.3), ponytail, (parted:1.2)_(bangs:0.7), (forehead:1.05)
+<lora:gawrGuraHololive_v3:0.9:TT> gawr gura, shark girl, shark tail, shark print, blue hoodie, sharp teeth, animal hood
+<lora:doaKasumi_blueJapaneseClothes:0.9:TT> kasumi \(doa\)
+<lora:doaKasumi_blueJapaneseClothes:0.8> kasumi \(doa\)
+<lora:doaHonokaWithMiko_mikoHakamaSkirt:0.9:TT>, honoka \(doa\)
+<lora:doaHonokaWithMiko_mikoHakamaSkirt:0.8>, honoka \(doa\)
+<lora:doaAyane_obiPurpleJapanese:0.9:TT> ayane \(doa\)
+<lora:doaAyane_obiPurpleJapanese:0.8> ayane \(doa\)
+<lora:Grisaia128_128_nonoise-000003:0.9:TT> grisaia \(series\), (suou amane:1.1), large breasts, very long red hair
+<lora:Grisaia128_128_nonoise-000003:0.9:TT> grisaia \(series\), irisu makina, loli, short brown hair
+<lora:Grisaia128_128_nonoise-000003:0.9:TT> grisaia \(series\), (kazami kazuki:1.2), long white hair, flat chest, petite
+<lora:sakakiYumikoFruitOf_v10:0.8:TT>sakaki yumiko, grisaia \(series\)
+<lora:komineSachiFruitOf_v10:0.8:TT>komine sachi, grisaia \(series\)
+<lora:matsushimaMichiruFruit_v10:0.8:TT>matsushima michiru, twintails, blonde hair
+<lora:princessZeldaLora_v1:0.8:TT> princess zelda, blonde hair, long hair, the legend of zelda: breath of the wild, pointy ears
+<lora:zeldaSkywardSword_zeldaSkswV1:0.8:TT> princess zelda, blonde hair, long hair, the legend of zelda: skyward sword
+<lora:shidareHotaru_v10:0.5:TT> shidare hotaru, large breasts
+<lora:reiNoHimo_v11:0.4:TT><lora:hestiaDanmachiLora_v10:0.8:TT>  hestia \(danmachi\), white dress, twintails, ribbon, rei no himo, blue eyes, large breasts, cleavage
+<lora:hestiaDanmachiLora_v10:0.8:TT>  hestia \(danmachi\)
+<lora:hestiaDanmachiLora_v10:0.8:TT>  hestia \(danmachi\)[::1]
+<lora:hestiaDanmachiLora_v10:0.8:TT>  hestia \(danmachi\)[::2]
+yorha no. 2 type b, (nier \(series\):0.8), short hair, white hair, (black blindfold:1.1)<lora:2bYorhaNo2TypeBNier_v1:0.6:TT>
+yorha no. 2 type b, (nier \(series\):0.8), short hair, white hair, (black blindfold:1.1)<lora:2bYorhaNo2TypeBNier_v1:0.7:TT>
+yorha no. 2 type b, (nier \(series\):0.8), short hair, white hair, blue eyes<lora:2bYorhaNo2TypeBNier_v1:0.7:TT>
+yorha no. 2 type b, (hatsune miku:1.1), yorha type miku, nier \(series\), {(black blindfold:1.2)|(black blindfold:1.4)|blue eyes}<lora:2bYorhaNo2TypeBNier_v1:0.4:TT>
+<lora:azurLaneFormidable_v10:0.8:TT>, formidable \(azur lane\), (可畏 - Formidable:0.8)
+<lora:summerBBFateGrand_v10:0.9:TT>summer bb, fgo
+<lora:gundouMisuzuTomoChanIs_v05:0.8>(gundou misuzu:1.1), (tomo-chan wa onna no ko:0.9)
+<lora:rosalinaMario_v10:0.75>rosalina
+<lora:togaHimikoTILora_togahimikolora:0.7:TT>toga himiko
+<lora:aCertainScientificRailgun4in1_v1:0.8:TT>({misaka_mikoto|shirai_kuroko|saten_ruiko|uiharu_kazari}:1.1), (toaru kagaku no railgun:0.9)
+<lora:darkMagicianGirlLora_1:0.7>dark magician girl, long blonde hair, hat
+<lora:nanakusaNazuna_v11:0.7:TT>(nanakusa nazuna, nanakusa suzuna:0.9)
+<lora:senjougaharaHitagi_v10:0.8:TT>senjougahara hitagi
+<lora:keqingGenshinImpact3in1_v10:0.7:TT>keqing \(genshin impact\), (刻晴 - Keqing:0.7)
+<lora:ningguangGenshinImpact_v1:0.8:TT>ningguang \(genshin impact\)
+<lora:cCCodeGeassLelouchOfTheRebellion_v10a:0.9>c.c., long hair
+<lora:chocolaNekopara_10:0.8:TT>chocola \(nekopara\), very long hair, twintails, brown hair, small breasts
+<lora:vanillaNekopara_10:0.8:TT>vanilla \(nekopara\), very long hair, (low twintails:1.1), white hair, small breasts
+<lora:celestiaLudenberg_v10:0.7:TT>(celestiadg:0.8), (celestia ludenberg:1.0), drill hair, (black hair, red eyes:0.9)
+<lora:chiakiNanami_v30:0.7:TT>(chiakidg:0.8), (nanami chiaki:0.9)
+<lora:SPOILERSFIXEDEnoshima_trueV10:0.7:TT>(junkodg:0.8), (enoshima junko:0.8)
+<lora:kirigiriKyoko_v10:0.8:TT>(kyokodg:0.8), (kirigiri kyouko:1.0)
+<lora:tsumikiMikan_v10:0.8:TT>(mikandg:0.9), (tsumiki mikan:1.0)
+<lora:furukawaNagisaClannad_10:0.8>furukawa nagisa, (clannad:0.8)
+<lora:clannadCLANNADKotomi_clannadCLANNADKotomi:0.9>(kotomi:0.9), (ichinose kotomi:0.9), (clannad:0.8), (purple hair:0.9), long hair
+<lora:sasasegawaSasamiLittle_10:0.8>sasasegawa sasami
+<lora:natsumeRinLittle_10:0.8:TT>natsume rin, (little busters!:0.8)
+<lora:nakamuraYuriAngelBeats_10:0.9>(nakamura yuri:1.1)
+<lora:suzumiyaHaruhiSuzumiya_v1:0.5:TT>suzumiya haruhi
+<lora:yorBriarSpyXFamily_v10:0.8:TT>yor briar, (间谍过家家 - 约尔·福杰 - SPY×FAMILY - Yor Forger:0.8)
+<lora:momijiNinjaGaiden_v10:0.8:TT>momiji, (ninja gaiden:0.9)
+<lora:yokoLittnerSpaceVer_v1:0.5:TT>yoko littner
+<lora:ramReZero_v1:0.7:TT>ram1, ram \(re:zero\), short hair, (pink hair:0.9), hair over one eye, (maid headdress:0.9)
+<lora:gabrielDropoutKurumizawa_v1:0.8>sdr, satanichia kurumizawa mcdowell
+<lora:gabrielDropoutGabriel_v1:0.8>tenma_gabriel, gabriel tenma white, (gabriel dropout:0.9)
+<lora:TakakuraHimari_TakakuraHimari:1.0>ohimesama, (himari:0.9), takakura himari{, hat|}
+hanyuu, long purple hair, (horns:0.8), (寒蝉鸣泣之时 - 羽入 - Higurashi When They Cry Hou - Hanyuu:0.9)
+(elaina \(majo no tabitabi\):1.1), white hair{,|, witch hat,} (魔女之旅 - 伊蕾娜 - Majo no Tabitabi - Elaina:1.0)
+(kuki shinobu:1.1), (green:0.9) hair, (久岐忍 - Kuki Shinobu:1.0)
+(yun jin:1.1) \(genshin impact\), blunt bangs, (云堇 - Yun Jin:1.0)
+yae miko, pink hair, (八重神子 - Yae Miko:0.9)
+sirius \(azure horizons\) \(azur lane\), (天狼星-旗袍 - Sirius-cheongsam:0.9)
+amber \(genshin impact\), brown hair, bow hairband, (安柏 - Amber:1.0)
+(sangonomiya kokomi:1.1), pink hair, long hair, (珊瑚宫心海 - Sangonomiya Kokomi:1.0)
+ganyu \(genshin impact\), blue hair, horns, (甘雨 - GanYu:1.0)
+(hu tao:1.1) \(genshin impact\), (胡桃 - Hu Tao:0.9)
+noshiro \(hold the ice\) \(azur lane\), (能代-女仆 - Noshiro-maid:0.9)
+barbara \(genshin impact\), (芭芭拉 - Barbara:0.9)
+lumine \(genshin impact\), (萤 - Lumine:0.9)
+noelle \(genshin impact\), (诺艾尔 - Noelle:0.9)
+belfast \(azur lane\), (贝尔法斯特 - Belfast:0.9)

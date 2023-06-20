@@ -1,0 +1,67 @@
+__clothing__
+__clothing__[::1]
+__clothing__[::2]
+__clothing__[::3]
+__clothing-female__
+__clothing-female__[::1]
+__clothing-female__[::2]
+__clothing-female__[::3]
+__clothing-female__[::4]
+__costume-female__
+__costume-female__[::1]
+__costume-female__[::2]
+__dress__
+__dress__[::1]
+__dress__[::2]
+__dress__[::3]
+__dress__, <lora:seeThroughSilhouette_v10:0.9:TT>((see-through:0.6)_silhouette:1.2)
+__dress__, <lora:seeThroughSilhouette_v10:0.9:TT>((see-through:0.7)_silhouette:1.2)
+__dress__, <lora:seeThroughSilhouette_v10:0.9:TT>((see-through:0.8)_silhouette:1.2)
+sleeveless dress, <lora:seeThroughSilhouette_v10:0.9:TT>((see-through:0.6)_silhouette:1.2)
+sleeveless dress, <lora:seeThroughSilhouette_v10:0.9:TT>((see-through:0.7)_silhouette:1.2)
+__outfit-cottagecore__
+__outfit-goth__
+__outfit-steampunk__
+__outfit-preppy__
+__naked-state__
+__naked-state__[::1]
+style-bridal
+china dress
+mini china dress
+<lora:chinaDressDesignedBy_v10:0.8:TT>chinese clothes
+kimono
+kimono, bare shoulders
+(japanese shrine maiden outfit:1.2)
+oriental clothes
+maid outfit
+skimpy maid outfit
+maid cosplay
+idol clothes, frills
+virgin killer sweater, backless outfit, sideboob, <lora:virginKillerSweater_v11:0.7:OUTALL>
+<lora:reiNoHimo_v11:0.8> (rei no himo:1.2), white dress, ribbon
+<lora:nakedTabard_v10:0.8:TT>naked tabard
+<lora:nakedTabard_v10:0.6:TT>naked tabard
+<lora:naked overalls and suspenders:0.6:TT>naked overalls
+<lora:naked overalls and suspenders:0.7:TT>naked suspenders
+<lora:upshirtUnderboob_v10:0.9:TT>underboob
+<lora:beltbra_v10:0.7:TT>beltbra
+__tt-holographicdress__
+<lora:coloredSerafuku_v10:0.9:TT> (__color-simple__ serafuku:1.1), pleated skirt, neckerchief
+<lora:oversizedShirt_v10:0.9:TT>(oversized shirt:1.1), (naked shirt:0.9), off shoulder
+<lora:oversizedShirt_v10:0.9:TT>(oversized shirt:1.1), (naked shirt:1.1), off shoulder
+<lora:negligee_v10:0.9>negligee
+<lora:negligee_v10:0.9:TT>(negligee:1.1), (frills:0.8), (dress:0.8)
+<lora:japaneseLingerie_v10:0.6:TT>jlfd, bare shoulders
+<lora:japaneseLingerie_v10:0.6:TT>jlfd, bare shoulders, cleavage
+<lora:haremDancer_v1:0.9:MIDD>harem outfit, harem dancer, pelvic curtain
+<lora:breast_curtains:0.9>breast curtains
+<lora:breast_curtains:0.9>fantasy clothes, breast curtains
+<lora:blackNurse_v10:0.8:TT>black nurse, cross-laced clothes, (black latex dress:0.8), (microdress:0.9)
+<lora:openChestSweater_v10:0.8>(open-chest sweater:1.1), turtleneck
+<lora:chineseLingerieFusionDudou_v10:0.7:TT>(dudou:1.1), chinese clothes
+<lora:nsfwAodai_nsfwTransparentAodai:0.7:TT>(aodaimong:1.2), (see-through:0.9), silk cloth
+<lora:downblouseForBoobs_v1:0.9:TT>downblouse, (leaning forward:0.9)
+<lora:CostumeElfOutfitElfBikini_v2White:0.8:TT>elfoutfit, pelvic curtain
+<lora:SexyUnderwearHanfu_v03:0.4:TT>hanfu, see-through
+(miko clothes:1.1){, detached sleeves|}<lora:mikoClothes_v10:0.5:TT>
+<lora:revealingClothes_v10:1.1>revealing clothes, dress, __tt-clothes-extra__

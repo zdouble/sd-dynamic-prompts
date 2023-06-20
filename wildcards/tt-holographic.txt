@@ -1,0 +1,9 @@
+<lora:conceptHolographic_holographicClothing:0.6:INS>holographic
+<lora:conceptHolographic_holographicClothing:0.6:IND>holographic
+<lora:conceptHolographic_holographicClothing:0.6:MIDD>holographic
+<lora:conceptHolographic_holographicClothing:0.6:OUTS>holographic
+<lora:conceptHolographic_holographicClothing:0.6:OUTD>holographic
+<lora:conceptHolographic_holographicClothing:0.6:OUTALL>holographic
+<lora:conceptHolographic_holographicClothing:0.6:INALL>holographic
+<lora:conceptHolographic_holographicClothing:0.6:TT>holographic
+<lora:conceptHolographic_holographicClothing:0.6>holographic

@@ -1,0 +1,8 @@
+sunny
+clear sky
+cloudy sky
+overcast
+rain
+heavy rain, raining
+wind{y|}{, wind lift{<lora:windLift_v11:0.9>|}|}
+{snowing|storm|thunder|stormy weather|tornado|rainbow|night, (aurora:1.1)}

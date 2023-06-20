@@ -1,0 +1,181 @@
+__interior__
+__interior__[::1]
+__interior__[::2]
+__interior__[::3]
+__interior__[::4]
+airplane interior
+airport
+amphitheater
+apartment
+apartment[::1]
+apartment[::2]
+aquarium
+arcade
+arcade[::1]
+arena
+armory
+art gallery
+bakery
+bar
+barn
+bathroom
+bathroom[::1]
+bathroom[::2]
+bathtub
+bathtub[::1]
+bed room
+bedroom
+bedroom[::1]
+bedroom[::2]
+bookstore
+bookstore[::1]
+bowling alley
+bunker
+bus interior
+cafe
+cafeteria
+capitol building
+car interior
+casino
+castle
+changing room
+church
+classroom
+classroom[::1]
+classroom[::2]
+clock tower
+closet
+clubroom
+clubroom[::1]
+cockpit
+conservatory
+control tower
+convenience store
+convention
+cosmic
+court
+courtroom
+cubicle
+dark tunnel
+dining room
+dining room[::1]
+dressing room
+dungeon
+dungeon[::1]
+factory
+fantasy
+ferris wheel
+fire
+fitting room
+flower shop
+fountain
+garage
+garden
+gas station
+gazebo
+gothic
+gradient
+greenhouse
+greenhouse[::1]
+guard tower
+gym
+gym storeroom
+hangar
+haunted library
+hell
+hospital
+hotel
+hotel room
+house
+hut
+industrial
+infernal palace
+infirmary
+izakaya
+kitchen
+kitchen[::1]
+kitchen[::2]
+laboratory
+library
+lighthouse
+living room
+living room[::1]
+living room[::2]
+living room[::3]
+locker room[::4]
+lunar base
+mall
+market
+market stall
+megastructure
+messy room
+messy room[::1]
+military base
+mosque
+movie theater
+museum
+night sky
+nightclub
+nightclub[::1]
+nuclear powerplant
+observatory
+office
+office[::1]
+onsen
+otaku room
+otaku room[::1]
+pharmacy
+phone booth
+planetarium
+pool
+pool[::1]
+poolside
+prison
+prison cell
+ramen shop
+refinery
+restaurant
+restaurant[::1]
+salon
+school
+school[::1]
+school[::2]
+sex shop
+sex shop[::1]
+sex shop[::2]
+shack
+ship
+shop
+shop[::1]
+shop[::2]
+shower
+shower[::1]
+shrine
+space station
+spacecraft interior
+stadium
+staff room
+stage
+storage room
+supermarket
+swimming pool
+swimming pool[::1]
+tank interior
+tavern
+temple
+theater
+toilet stall
+train interior
+train station
+treehouse
+tunnel
+underworld
+vehicle interior
+war
+warehouse
+water
+waterpark
+weapon shop
+well
+workshop
+wrestling ring

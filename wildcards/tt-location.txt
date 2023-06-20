@@ -1,0 +1,9 @@
+indoors, __tt-location-indoors__
+__tt-location-indoors__
+__tt-location-indoors__, fantastic scenery, window{, __tt-weather__|}
+fantastic scenery, outdoors, __tt-location-outdoors__
+outside, __tt-location-outdoors__{, __tt-weather__|}
+beautiful scenery, __tt-location-outdoors__{, __tt-weather__|}
+fantastic scenery, __tt-location-outdoors__{, __tt-weather__|}
+__tt-location-outdoors__{, __tt-weather__|}
+colorful, abstract background

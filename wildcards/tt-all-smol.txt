@@ -1,0 +1,2 @@
+__tt-character-smol__, __tt-location__, __tt-pose__, __tt-extra__, __tt-extra__, __tt-quality__
+__tt-location__, __tt-character-smol__, __tt-pose__, __tt-extra__, __tt-extra__, __tt-quality__

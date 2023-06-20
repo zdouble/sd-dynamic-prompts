@@ -1,0 +1,59 @@
+apartment building
+bank
+bar
+bookstore
+cafe
+cathedral
+church
+club
+community center
+concert hall
+corporate building
+court house
+department store
+distillery
+dormitory
+embassy
+factory
+fire station
+foundry
+funeral home
+gallery
+garage
+government building
+greenhouse
+hospital
+hotel
+house
+jail
+library
+lighthouse
+mall
+mosque
+museum
+nursing home
+observatory
+office building
+orphanage
+palace
+parliament
+post office
+power station
+prison
+rectory
+research station
+restaurant
+school
+shopping mall
+silo
+skyscraper
+stadium
+supermarket
+synagogue
+theater
+train station
+university
+warehouse
+windmill
+winery
+workshop

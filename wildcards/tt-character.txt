@@ -1,0 +1,5 @@
+__tt-character-named__
+__tt-character-named__, {__tt-clothes-extra__|__tt-panties__|__tt-legwear__}
+__tt-character-named__, __tt-clothes__
+__tt-character-named__, __tt-character-extra__, {__tt-clothes-extra__|__tt-panties__|__tt-legwear__}
+__tt-character-named__, __tt-clothes__, __tt-character-extra__

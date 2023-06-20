@@ -1,0 +1,1 @@
+light blue hair,purple eyes,ganyu \(genshin impact\),<lora:ganyu_ned2_offset:1>

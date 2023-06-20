@@ -1,0 +1,62 @@
+hatsune miku, loli, female child, flat chest, cute
+kanna kamui, (kobayashi-san chi no maidragon:0.7), female child, loli, cute, flat chest <lora:kanna128:0.7:OUTALL>
+kanna kamui, (kobayashi-san chi no maidragon:0.7), female child, loli, cute, flat chest <lora:kanna128:0.6>
+kanna kamui, (kobayashi-san chi no maidragon:0.7), cute, female child, flat chest <lora:kannaKobayashiSan_v10:0.6:TT>
+kanna kamui, (kobayashi-san chi no maidragon:0.7), cute, female child, flat chest <lora:kannaKobayashiSan_v10:0.7:TT>
+kanna kamui, (kobayashi-san chi no maidragon:0.7), cute, female child <lora:kannaKobayashiSan_v10:0.3:TT><lora:kanna128:0.3:OUTALL>
+<lora:iluluMissKobayashis_iluluV2Epoch11:0.8:TT>ilulu \(maidragon\), kobayashi-san chi no maidragon, oppai loli, low twintails
+touhou, flandre scarlet, loli, flat chest
+touhou, flandre scarlet, loli, flat chest <lora:FlandreScarletTouhou_v10:0.6:TT>
+touhou, cirno, loli, flat chest
+touhou, moriya suwako, loli, flat chest
+(tatsumaki:1.1), (one-punch man:0.8), petite {<lora:tatsumakiOnePunchMan_v11:0.8:TT>|<lora:tatsumakiTerribleTornado_v01:0.9:TT>}
+(tatsumaki:1.1), (one-punch man:0.8), loli {<lora:tatsumakiOnePunchMan_v11:0.8:TT>|<lora:tatsumakiTerribleTornado_v01:0.9:TT>}
+abigail williams \(fate\) <lora:abigailWilliamsFate_v10:0.8:TT>
+abigail williams \(fate\), abigail williams \(swimsuit foreigner\) \(fate\) <lora:abigailWilliamsFateSwimsuit_v1:0.8:TT>
+ankha \(animal crossing\), ankha zone, cat girl <lora:ankhaAnimalCrossing_ankhaV1:0.7>
+ankha \(animal crossing\), ankha zone, cat girl <lora:ankhaAnimalCrossing_ankhaV1:0.8>
+<lora:kleeGenshinImpact_:0.9> klee \(genshin impact\)
+<lora:kleeGenshinImpact_:1:OUTALL> klee \(genshin impact\), loli, female child, blonde hair
+<lora:ch_klee_768_1.5e-5:0.9> klee \(genshin impact\), loli, female child, blonde hair, cute
+<lora:ch_qiqi_768_1.5e:0.9> qiqi \(genshin impact\), short blue hair
+<lora:ch_qiqi_768_1.5e:0.9> qiqi \(genshin impact\), short blue hair, loli, cute, female child
+<lora:shinobuOshino_loraoshinoshinobuV1:0.8:TT> (oshino shinobu:1.1), loli, blonde hair, long hair
+<lora:shinobuOshino_loraoshinoshinobuV1:0.6:TT> (oshino shinobu:1.1), loli, blonde hair, long hair, (物语系列 - 忍野忍 - Monogatari - Shinobu Oshino:0.9)
+(hachiroku \(maitetsu\):1.2), (maitetsu:0.8), loli, female child, cute, blunt bangs, very long hair <lora:HachirokuMaitetsu:0.8:OUTALL>
+anya \(spy x family\), cute, female child, tiny, chibi, short pink hair <lora:SPYFAMILYAnyaForger_AnimefullLatestPruned:0.8:OUTALL>
+anya \(spy x family\), cute, female child, short pink hair, <lora:SPYFAMILYAnyaForger_AnimefullLatestPruned:0.8:OUTALL>
+anya \(spy x family\), cute, female child, short pink hair, <lora:SPYFAMILYAnyaForger_AnimefullLatestPruned:0.8:OUTALL> anyahehface <lora:anyahehface_v0:0.8>
+<lora:minaseIori_minaseIori:0.8:TT> minase iori, flat chest, idolmaster
+<lora:minaseIori_minaseIori:0.8:TT> minase iori, flat chest, idolmaster[::1]
+<lora:minaseIori_minaseIori:0.8:TT> minase iori, flat chest
+<lora:midnamidnamidna_e6:0.9:TT> midna, ImpMidna
+<lora:midnamidnamidna_e6:0.8:TT> TwiliMidna, midna \(true\)
+<lora:mayoiHachikuji_hachikujiV3Pruned:0.9:TT> hachikuji mayoi, loli, female child, twintails, hachipack
+<lora:mayoiHachikuji_hachikujiV3Pruned:0.9:TT> hachikuji mayoi, loli, female child, twintails
+<lora:nanachiMadeInAbyss_charNanachi:0.9> nanachi \(made in abyss\)
+<lora:saya1:0.5:TT>saya \(saya no uta\), flat chest
+<lora:saya1:0.6:TT>saya \(saya no uta\)
+<lora:inklingGirlsLora_v1:0.7:TT> inkling girl, splatoon \(series\), (tentacle hair:0.8){, twintails|}
+<lora:flonneFromDisgaea_10:0.9> flonne, disgaea
+<lora:emilico:0.9> emilico \(shadows house\), loli, female child, blonde hair
+<lora:prismaIllya:0.9:TT> fate/kaleid liner prisma illya, prisma illya, illyasviel von einzbern
+illyasviel von einzbern, fate \(series\), loli, long white hair
+<lora:ro500KancolleLora_ro5001280arb:0.9:TT> ro-500 \(kancolle\), (kantai collection:0.8)
+<lora:ro500KancolleLora_ro5001280arb:0.8> ro-500 \(kancolle\), (kantai collection:0.8)
+<lora:shimakazeKancolle_v131:0.9:TT> shimakaze \(kancolle\), (kantai collection:0.8)
+<lora:shimakazeKancolle_v131:0.7> shimakaze \(kancolle\), (kantai collection:0.8)
+<lora:honmaMeikoMenma_10:0.8:TT>menma, honma meiko, female child, loli, flat chest, long silver hair
+<lora:gateOpenerAliceQueens_gateOpenerAlice10:0.7:TT>alice \(queen's gate\), small breasts, twintails, hair ornament
+<lora:teraElinRaceLora_elinLegs:0.7><lora:teraElinRaceLora_elinDress:0.5>(elin:1.1), loli, female child, petite, thick thighs
+<lora:teraElinRaceLora_elinLegs:0.8><lora:teraElinRaceLora_elinDress:0.6>(elin:1.1), loli, female child, petite, thick thighs
+<lora:katouUmiSummerPockets_10:0.8:TT>(katou umi:1.1), (summer pockets:0.8), female child, flat chest
+<lora:mallowLoraByZodiac_zodiacMallow11:0.8:TT>mallow \(pokemon\), (dark skin:1.1), low twintails, green hair
+<lora:nobetaCharacterLora_v1:1.0:TT>nobeta, little witch nobeta, witch hat, female child, petite, flat chest
+<lora:shigureNekopara_10:0.9:TT>shigure_neko, (nekopara:0.9), animal ears, short hair, blunt bangs
+<lora:yinDarkerThanBlack_v10:0.8:TT>kbxll, yin (\(darker than black\):0.8), petite, small breasts, ponytail, expressionless
+(futaba anzu:1.2), low twintails, (idolmaster cinderella girls:0.9), (双叶杏 - Futaba Anzu:1.1)
+(roxy migurdia:1.1), mushoku tensei, petite, flat chest, blue hair{,|, witch hat,} (无职转生 - 洛琪希 - Mushoku Tensei - Roxy:0.9)
+sayu \(genshin impact\), (早柚 - Sayu:0.9)
+(paimon:1.1) \(genshin impact\), minigirl, short hair, white hair, chibi, (派蒙 - Paimon:1.0)
+(unicorn:1.1) \(azur lane\), purple hair, very long hair, {(独角兽 - Unicorn:1.0)|(独角兽-校服 - Unicorn-JK:0.9)}
+(nahida:1.1) \(genshin impact\), cute, female child, flat chest, short hair, (纳西妲 - Nahida:1.0)

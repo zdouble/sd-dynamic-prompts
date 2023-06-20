@@ -1,0 +1,17 @@
+animal ears
+oiled
+shiny oiled skin<lora:shinyOiledSkin_v1:0.8:TT>
+animal ears, oiled
+armpits
+armpits, animal ears
+armpits, oiled
+armpits, shiny oiled skin<lora:shinyOiledSkin_v1:0.8:TT>
+__tt-expression__, animal ears
+__tt-expression__, oiled
+__tt-expression__, shiny oiled skin<lora:shinyOiledSkin_v1:0.8:TT>
+__tt-expression__, animal ears, oiled
+__tt-expression__, armpits
+__tt-expression__, armpits, animal ears
+__tt-expression__, armpits, oiled
+__tt-expression__, armpits, shiny oiled skin<lora:shinyOiledSkin_v1:0.8:TT>
+__tt-expression__, scar, {armpits|animal ears}

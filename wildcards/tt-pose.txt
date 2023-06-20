@@ -1,0 +1,37 @@
+standing
+standing[::1]
+standing[::2]
+standing[::3]
+standing[::4]
+standing[::5]
+standing[::6]
+standing[::7]
+standing[::8]
+standing[::9]
+standing, facing away
+standing, facing away[::1]
+standing, facing to the side
+sitting
+sitting, feet
+sitting on floor
+sitting on floor, feet
+sitting on chair
+sitting on chair, feet
+sitting on __furniture__
+sitting on __furniture__, feet
+lying, on back
+lying, on side
+lying, on stomach, feet up
+dancing
+fighting
+fighting stance
+jumping
+__pose__
+__pose__[::1]
+__pose__[::2]
+__pose__[::3]
+__pose__, feet
+__walking__ forward
+__walking__ towards viewer
+__walking__ away
+__walking__ away[::1]

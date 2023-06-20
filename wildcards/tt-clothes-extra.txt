@@ -1,0 +1,19 @@
+see-through
+revealing clothes
+lewd clothes
+off-shoulder
+see-through, revealing clothes
+revealing clothes, off-shoulder
+(backless outfit:{0.8|0.9|1.0})
+{sideless outfit|side slit}
+{sideless outfit|side slit}, fantasy outfit
+sideless outfit, pelvic curtain
+pelvic curtain
+fantasy clothes
+fantasy outfit
+cosplay
+bare shoulders
+collarbone
+navel cutout
+<lora:ConceptBetterCenterOpening_v1:0.6>cleavage cutout
+__tt-clothes-extra__, __tt-clothes-extra__

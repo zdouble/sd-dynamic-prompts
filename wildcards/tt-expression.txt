@@ -1,0 +1,23 @@
+__expression__
+__expression__
+__expression__
+__expression__
+__expression__
+happy
+happy[::1]
+happy, laughing
+assertive female
+smile
+shy
+shy, smile
+embarrassed
+smirk
+grin
+expressionless
+confused
+sleepy
+upset
+sad, tears
+smug, doyagao
+:3
+clueless, spoken question mark, ?

@@ -1,0 +1,8 @@
+__panties__
+__panties__, lowleg
+<lora:lowlegPantiesClothing_v10:1>lowleg panties
+__panties__, __panties-action__
+(no panties:0.8)
+groin
+(no panties:0.8), groin
+cameltoe

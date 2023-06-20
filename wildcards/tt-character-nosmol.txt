@@ -1,0 +1,8 @@
+__tt-character-named-nosmol__
+__tt-character-named-nosmol__, {__tt-clothes-extra__|__tt-panties__|__tt-legwear__}
+__tt-character-named-nosmol__, __tt-clothes__
+__tt-character-named-nosmol__, __tt-character-extra__, {__tt-clothes-extra__|__tt-panties__|__tt-legwear__}
+__tt-character-named-nosmol__, __tt-clothes__, __tt-character-extra__
+__tt-character-generic-nosmol__, __tt-clothes__
+__tt-character-generic-nosmol__, __tt-clothes__, __tt-character-extra__
+__tt-character-generic-nosmol__, __tt-clothes__, __tt-character-extra__[::1]
