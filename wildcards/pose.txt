@@ -1,0 +1,2 @@
+__pose/femaleCharmingPoses_v10/Female_Charming_Poses__
+__pose/femalePosesWildcard400_v10/female-poses__
