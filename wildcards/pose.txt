@@ -1,2 +1,5 @@
 __pose/femaleCharmingPoses_v10/Female_Charming_Poses__
 __pose/femalePosesWildcard400_v10/female-poses__
+__pose/thePromptBuilder_v11/hand_gestures__
+__pose/thePromptBuilder_v11/pose__
+__pose/thePromptBuilder_v11/pose_extra__
