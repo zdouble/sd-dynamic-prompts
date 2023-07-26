@@ -88,9 +88,6 @@ __clothing/clothesWildcards_v10/Wedding dress/wedding dress3__
 __clothing/clothesWildcards_v10/Wedding guest gashion/wedding guest fashion__
 __clothing/clothesWildcards_v10/Wedding guest gashion/wedding guest fashion2__
 __clothing/clothesWildcards_v10/Wedding guest gashion/wedding guest fashion3__
-__clothing/clothesWildcards_v10/티셔츠&청바지/t-shirt, lowleg_shorts1__
-__clothing/clothesWildcards_v10/티셔츠&청바지/t-shirt, lowleg_shorts2__
-__clothing/clothesWildcards_v10/티셔츠&청바지/t-shirt, lowleg_shorts3__
 __clothing/extremelyBeautiful_beautifulclotheswild/Extremely beautiful clothes__
 __clothing/knitWildcards_v10/knit_style1__
 __clothing/knitWildcards_v10/knit_style2__
