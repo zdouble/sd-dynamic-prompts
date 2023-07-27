@@ -49,8 +49,6 @@ __clothes/clothesWildcards_v10/Luxauly_outfit/luxauly look2__
 __clothes/clothesWildcards_v10/Luxauly_outfit/luxauly look3__
 __clothes/clothesWildcards_v10/Luxauly_outfit/luxauly look4__
 __clothes/clothesWildcards_v10/Luxauly_outfit/luxioryfashion__
-__clothes/clothesWildcards_v10/Luxauly_outfit/럭셔리 코디/fashionable1__
-__clothes/clothesWildcards_v10/Luxauly_outfit/럭셔리 코디/fashionable2__
 __clothes/clothesWildcards_v10/one-piece styles/one-piece styles1__
 __clothes/clothesWildcards_v10/one-piece styles/one-piece styles2__
 __clothes/clothesWildcards_v10/one-piece styles/one-piece styles3__
