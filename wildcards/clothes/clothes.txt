@@ -174,7 +174,6 @@ Beastmaster, animal companions, bond with nature, animal handling, tracking, wil
 Occultist, forbidden knowledge, eldritch artifacts, dark rituals, ancient texts, pact with otherworldly beings, arcane secrets
 Illusionist, illusions, trickery, deception, light manipulation, smoke and mirrors, misdirection, phantasmal spells
 Arcane Archer, enchanted arrows, precision, longbow, magical attacks, elemental arrows, ranged combat
-Twinblade, dual-wielding swords, agility, quick strikes, finesse, evasion, whirlwind attacks, speed
 Geomancer, earth magic, environmental manipulation, terrain control, elemental mastery, ley lines, harmony with nature
 Pyromancer, fire magic, flame control, heat manipulation, combustion, fiery spells, burning passion
 Cryomancer, ice magic, frost control, cold manipulation, freezing spells, chilling touch, icy demeanor
