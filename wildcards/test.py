@@ -5,10 +5,8 @@ str = ''
 for root, ds, fs in os.walk(f'./pose'):
     for f in fs:
         fullname = os.path.join(root, f)
-        s = re.sub(r'\.txt', '__', fullname)
-        s = re.sub(r'\.\/', '__', s)
-        s = re.sub(r'\\', '/', s)
-        str += f'{s}\n'
+        with open(fullname, 'r') as f:
+            str+= f'{f.read()}\n'
 
 with open('./pose.txt', 'w', encoding='utf-8') as f:
     f.write(str)
