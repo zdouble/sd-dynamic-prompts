@@ -1,1 +1,1 @@
-__clothes__,__pose__
+__clothes__,__bg__
