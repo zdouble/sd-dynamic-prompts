@@ -1,0 +1,1000 @@
+Baroque, monument, concrete
+Baroque, library, wood
+Gothic, library, steel
+Renaissance, palace, steel
+Baroque, monument, concrete
+Romanesque, library, steel
+Victorian, palace, glass
+Neoclassical, government building, wood
+Modernist, religious building, marble
+Modernist, monument, marble
+Renaissance, skyscraper, granite
+Modernist, library, wood
+Romanesque, museum, steel
+Baroque, monument, granite
+Modernist, museum, stone
+Victorian, library, granite
+Gothic, palace, steel
+Baroque, stadium, granite
+Renaissance, government building, glass
+Romanesque, palace, concrete
+Neoclassical, museum, concrete
+Baroque, religious building, wood
+Baroque, monument, marble
+Modernist, library, brick
+Modernist, government building, brick
+Modernist, religious building, stone
+Romanesque, monument, marble
+Romanesque, skyscraper, steel
+Baroque, museum, wood
+Renaissance, museum, stone
+Romanesque, museum, granite
+Modernist, skyscraper, wood
+Renaissance, skyscraper, granite
+Art Deco, skyscraper, concrete
+Art Deco, skyscraper, concrete
+Baroque, religious building, glass
+Gothic, monument, steel
+Victorian, skyscraper, stone
+Renaissance, religious building, steel
+Neoclassical, skyscraper, granite
+Neoclassical, government building, stone
+Victorian, museum, granite
+Art Deco, government building, wood
+Modernist, monument, wood
+Gothic, government building, stone
+Victorian, skyscraper, steel
+Neoclassical, government building, wood
+Romanesque, palace, glass
+Art Deco, skyscraper, brick
+Renaissance, monument, wood
+Gothic, government building, concrete
+Art Deco, government building, glass
+Gothic, government building, wood
+Romanesque, government building, stone
+Victorian, palace, granite
+Neoclassical, monument, glass
+Art Deco, skyscraper, stone
+Gothic, palace, marble
+Renaissance, stadium, steel
+Neoclassical, palace, steel
+Renaissance, government building, stone
+Modernist, palace, brick
+Victorian, skyscraper, marble
+Neoclassical, monument, concrete
+Gothic, library, marble
+Neoclassical, religious building, wood
+Gothic, government building, concrete
+Victorian, stadium, marble
+Art Deco, religious building, glass
+Neoclassical, government building, brick
+Romanesque, monument, granite
+Romanesque, skyscraper, steel
+Baroque, skyscraper, stone
+Victorian, library, wood
+Gothic, government building, concrete
+Gothic, museum, stone
+Neoclassical, monument, brick
+Modernist, museum, stone
+Victorian, library, stone
+Art Deco, skyscraper, granite
+Modernist, skyscraper, wood
+Neoclassical, monument, steel
+Gothic, monument, steel
+Baroque, government building, brick
+Baroque, monument, brick
+Romanesque, government building, granite
+Renaissance, stadium, stone
+Art Deco, government building, steel
+Renaissance, library, stone
+Romanesque, skyscraper, wood
+Renaissance, religious building, stone
+Art Deco, skyscraper, brick
+Neoclassical, government building, concrete
+Gothic, museum, concrete
+Gothic, government building, granite
+Renaissance, stadium, stone
+Baroque, stadium, glass
+Baroque, stadium, granite
+Victorian, museum, wood
+Romanesque, palace, glass
+Art Deco, stadium, marble
+Gothic, library, stone
+Gothic, palace, wood
+Neoclassical, skyscraper, marble
+Baroque, skyscraper, marble
+Baroque, stadium, marble
+Neoclassical, library, stone
+Romanesque, stadium, wood
+Baroque, skyscraper, granite
+Neoclassical, museum, marble
+Romanesque, skyscraper, stone
+Victorian, library, stone
+Renaissance, religious building, wood
+Baroque, museum, steel
+Gothic, museum, concrete
+Renaissance, monument, concrete
+Modernist, skyscraper, wood
+Neoclassical, palace, stone
+Art Deco, museum, brick
+Renaissance, skyscraper, glass
+Romanesque, skyscraper, stone
+Renaissance, skyscraper, wood
+Romanesque, palace, brick
+Baroque, religious building, concrete
+Gothic, palace, wood
+Baroque, stadium, stone
+Modernist, museum, granite
+Gothic, library, concrete
+Baroque, monument, granite
+Victorian, library, granite
+Neoclassical, skyscraper, brick
+Gothic, monument, glass
+Renaissance, palace, wood
+Romanesque, monument, granite
+Art Deco, stadium, brick
+Renaissance, monument, marble
+Baroque, monument, brick
+Art Deco, religious building, glass
+Romanesque, palace, brick
+Baroque, library, brick
+Gothic, museum, steel
+Gothic, stadium, granite
+Renaissance, skyscraper, marble
+Art Deco, religious building, wood
+Art Deco, religious building, wood
+Baroque, stadium, stone
+Art Deco, monument, marble
+Renaissance, religious building, granite
+Art Deco, skyscraper, glass
+Romanesque, monument, granite
+Victorian, skyscraper, stone
+Renaissance, stadium, steel
+Victorian, palace, steel
+Romanesque, religious building, stone
+Victorian, palace, stone
+Victorian, palace, concrete
+Art Deco, museum, marble
+Art Deco, religious building, granite
+Victorian, palace, stone
+Gothic, skyscraper, granite
+Modernist, library, glass
+Neoclassical, monument, glass
+Neoclassical, library, concrete
+Baroque, stadium, stone
+Neoclassical, monument, marble
+Romanesque, monument, concrete
+Victorian, stadium, glass
+Baroque, religious building, steel
+Baroque, museum, concrete
+Renaissance, library, glass
+Romanesque, palace, steel
+Baroque, museum, glass
+Modernist, religious building, concrete
+Neoclassical, skyscraper, glass
+Modernist, library, brick
+Baroque, religious building, concrete
+Neoclassical, palace, granite
+Art Deco, religious building, concrete
+Victorian, religious building, wood
+Gothic, palace, brick
+Art Deco, skyscraper, concrete
+Renaissance, skyscraper, marble
+Art Deco, stadium, concrete
+Neoclassical, museum, brick
+Victorian, library, brick
+Victorian, stadium, stone
+Gothic, museum, concrete
+Art Deco, museum, glass
+Renaissance, monument, stone
+Romanesque, government building, glass
+Art Deco, library, wood
+Art Deco, religious building, steel
+Romanesque, museum, granite
+Renaissance, monument, concrete
+Renaissance, religious building, wood
+Modernist, library, concrete
+Gothic, museum, brick
+Neoclassical, religious building, steel
+Victorian, monument, concrete
+Renaissance, palace, steel
+Victorian, palace, steel
+Baroque, government building, marble
+Modernist, government building, steel
+Renaissance, stadium, wood
+Baroque, religious building, glass
+Modernist, religious building, wood
+Renaissance, museum, concrete
+Art Deco, museum, concrete
+Modernist, palace, steel
+Modernist, stadium, concrete
+Gothic, religious building, steel
+Gothic, skyscraper, steel
+Romanesque, museum, brick
+Art Deco, monument, steel
+Neoclassical, religious building, marble
+Victorian, monument, concrete
+Art Deco, stadium, wood
+Baroque, religious building, wood
+Renaissance, government building, wood
+Art Deco, monument, stone
+Baroque, government building, steel
+Baroque, stadium, steel
+Gothic, monument, marble
+Gothic, museum, stone
+Art Deco, museum, steel
+Romanesque, monument, steel
+Art Deco, monument, stone
+Gothic, skyscraper, wood
+Victorian, government building, brick
+Neoclassical, library, stone
+Art Deco, palace, granite
+Modernist, government building, granite
+Gothic, palace, stone
+Romanesque, library, stone
+Art Deco, skyscraper, marble
+Gothic, stadium, concrete
+Art Deco, monument, concrete
+Baroque, palace, steel
+Gothic, monument, wood
+Renaissance, library, steel
+Art Deco, museum, glass
+Baroque, museum, stone
+Neoclassical, library, marble
+Modernist, library, marble
+Art Deco, monument, glass
+Baroque, palace, concrete
+Gothic, religious building, brick
+Modernist, monument, glass
+Gothic, palace, marble
+Art Deco, library, wood
+Baroque, monument, steel
+Renaissance, library, wood
+Neoclassical, government building, stone
+Gothic, museum, marble
+Baroque, palace, marble
+Romanesque, museum, concrete
+Renaissance, monument, granite
+Art Deco, monument, glass
+Baroque, stadium, granite
+Victorian, monument, steel
+Gothic, library, steel
+Modernist, religious building, brick
+Gothic, government building, steel
+Art Deco, government building, granite
+Art Deco, museum, steel
+Baroque, stadium, wood
+Neoclassical, religious building, wood
+Baroque, palace, granite
+Renaissance, stadium, granite
+Art Deco, library, stone
+Neoclassical, skyscraper, brick
+Neoclassical, monument, granite
+Baroque, government building, glass
+Renaissance, stadium, concrete
+Gothic, library, brick
+Modernist, skyscraper, steel
+Art Deco, religious building, stone
+Victorian, religious building, wood
+Modernist, monument, concrete
+Modernist, library, granite
+Romanesque, skyscraper, concrete
+Victorian, skyscraper, stone
+Neoclassical, government building, glass
+Renaissance, palace, stone
+Neoclassical, palace, stone
+Art Deco, religious building, glass
+Modernist, skyscraper, wood
+Art Deco, monument, glass
+Baroque, religious building, brick
+Renaissance, government building, steel
+Baroque, skyscraper, glass
+Modernist, monument, wood
+Baroque, stadium, glass
+Baroque, museum, concrete
+Romanesque, monument, stone
+Neoclassical, stadium, wood
+Neoclassical, monument, glass
+Art Deco, museum, brick
+Art Deco, monument, wood
+Art Deco, library, granite
+Romanesque, palace, glass
+Romanesque, stadium, granite
+Renaissance, stadium, granite
+Art Deco, government building, stone
+Baroque, government building, stone
+Gothic, palace, marble
+Modernist, skyscraper, marble
+Romanesque, library, steel
+Art Deco, palace, wood
+Neoclassical, religious building, granite
+Romanesque, government building, brick
+Art Deco, skyscraper, concrete
+Victorian, monument, wood
+Baroque, museum, granite
+Romanesque, monument, wood
+Art Deco, monument, wood
+Victorian, stadium, concrete
+Romanesque, stadium, concrete
+Gothic, stadium, stone
+Baroque, government building, stone
+Victorian, stadium, wood
+Modernist, palace, brick
+Victorian, government building, wood
+Baroque, religious building, steel
+Baroque, library, granite
+Romanesque, stadium, brick
+Gothic, skyscraper, granite
+Modernist, skyscraper, stone
+Art Deco, museum, stone
+Gothic, library, wood
+Modernist, stadium, wood
+Baroque, government building, concrete
+Modernist, monument, wood
+Renaissance, government building, brick
+Victorian, palace, marble
+Renaissance, religious building, glass
+Victorian, library, steel
+Victorian, stadium, marble
+Neoclassical, government building, stone
+Victorian, religious building, glass
+Victorian, museum, granite
+Gothic, government building, steel
+Gothic, monument, brick
+Victorian, stadium, wood
+Gothic, government building, granite
+Art Deco, skyscraper, glass
+Renaissance, palace, concrete
+Gothic, stadium, steel
+Romanesque, library, glass
+Modernist, government building, glass
+Victorian, palace, steel
+Art Deco, government building, wood
+Modernist, library, wood
+Baroque, stadium, granite
+Victorian, museum, marble
+Baroque, government building, wood
+Renaissance, skyscraper, wood
+Gothic, religious building, granite
+Modernist, stadium, granite
+Victorian, museum, brick
+Modernist, stadium, granite
+Baroque, palace, glass
+Victorian, museum, glass
+Renaissance, library, marble
+Art Deco, government building, granite
+Neoclassical, stadium, stone
+Baroque, museum, brick
+Modernist, religious building, wood
+Victorian, religious building, granite
+Neoclassical, museum, granite
+Renaissance, library, marble
+Modernist, stadium, marble
+Gothic, religious building, stone
+Neoclassical, palace, concrete
+Modernist, stadium, glass
+Gothic, government building, concrete
+Neoclassical, library, steel
+Art Deco, museum, wood
+Baroque, skyscraper, granite
+Neoclassical, museum, granite
+Gothic, museum, concrete
+Art Deco, government building, stone
+Romanesque, stadium, stone
+Victorian, monument, glass
+Art Deco, palace, brick
+Romanesque, stadium, steel
+Art Deco, skyscraper, brick
+Baroque, palace, steel
+Modernist, museum, marble
+Victorian, monument, granite
+Gothic, monument, marble
+Renaissance, skyscraper, stone
+Romanesque, library, wood
+Neoclassical, stadium, brick
+Renaissance, government building, wood
+Art Deco, religious building, stone
+Victorian, religious building, granite
+Renaissance, religious building, brick
+Neoclassical, skyscraper, wood
+Renaissance, monument, concrete
+Victorian, religious building, brick
+Baroque, skyscraper, glass
+Neoclassical, religious building, wood
+Gothic, government building, stone
+Romanesque, religious building, glass
+Neoclassical, palace, granite
+Victorian, museum, stone
+Romanesque, government building, granite
+Modernist, library, steel
+Renaissance, palace, concrete
+Baroque, government building, steel
+Renaissance, monument, brick
+Romanesque, museum, stone
+Neoclassical, library, glass
+Modernist, government building, wood
+Renaissance, library, steel
+Baroque, religious building, marble
+Neoclassical, palace, marble
+Victorian, library, wood
+Baroque, library, marble
+Renaissance, government building, stone
+Baroque, skyscraper, stone
+Victorian, library, stone
+Art Deco, library, marble
+Gothic, stadium, brick
+Renaissance, museum, marble
+Romanesque, religious building, steel
+Neoclassical, stadium, marble
+Modernist, palace, marble
+Modernist, government building, stone
+Romanesque, library, brick
+Neoclassical, government building, steel
+Baroque, skyscraper, stone
+Art Deco, library, granite
+Modernist, museum, wood
+Modernist, government building, marble
+Gothic, monument, wood
+Modernist, palace, glass
+Art Deco, palace, stone
+Romanesque, museum, concrete
+Baroque, government building, marble
+Gothic, skyscraper, brick
+Modernist, skyscraper, marble
+Victorian, library, concrete
+Neoclassical, skyscraper, stone
+Modernist, monument, steel
+Victorian, palace, glass
+Neoclassical, monument, granite
+Art Deco, religious building, steel
+Baroque, skyscraper, concrete
+Neoclassical, religious building, wood
+Neoclassical, religious building, concrete
+Art Deco, monument, concrete
+Gothic, palace, steel
+Victorian, skyscraper, glass
+Gothic, stadium, granite
+Art Deco, monument, concrete
+Art Deco, skyscraper, steel
+Baroque, library, granite
+Gothic, religious building, marble
+Art Deco, stadium, concrete
+Victorian, religious building, wood
+Gothic, religious building, wood
+Modernist, government building, concrete
+Neoclassical, skyscraper, marble
+Romanesque, stadium, steel
+Baroque, monument, wood
+Modernist, skyscraper, marble
+Modernist, skyscraper, concrete
+Romanesque, library, steel
+Baroque, stadium, stone
+Baroque, skyscraper, stone
+Neoclassical, library, steel
+Romanesque, government building, marble
+Victorian, library, steel
+Gothic, palace, stone
+Neoclassical, library, wood
+Baroque, religious building, concrete
+Gothic, museum, granite
+Baroque, skyscraper, brick
+Gothic, government building, stone
+Neoclassical, museum, concrete
+Victorian, museum, granite
+Modernist, library, steel
+Renaissance, monument, granite
+Neoclassical, skyscraper, stone
+Renaissance, library, brick
+Romanesque, palace, steel
+Victorian, stadium, glass
+Baroque, library, brick
+Neoclassical, monument, wood
+Neoclassical, stadium, wood
+Art Deco, museum, concrete
+Modernist, skyscraper, glass
+Renaissance, monument, concrete
+Victorian, religious building, granite
+Baroque, religious building, brick
+Gothic, religious building, brick
+Baroque, museum, concrete
+Art Deco, skyscraper, brick
+Art Deco, religious building, stone
+Romanesque, palace, marble
+Art Deco, government building, steel
+Romanesque, government building, glass
+Baroque, museum, glass
+Renaissance, monument, wood
+Gothic, skyscraper, glass
+Renaissance, stadium, glass
+Gothic, stadium, granite
+Victorian, government building, glass
+Victorian, museum, stone
+Victorian, religious building, marble
+Gothic, stadium, glass
+Renaissance, government building, granite
+Victorian, museum, marble
+Baroque, government building, granite
+Victorian, monument, stone
+Modernist, stadium, stone
+Neoclassical, monument, marble
+Romanesque, museum, marble
+Renaissance, library, stone
+Romanesque, religious building, glass
+Neoclassical, library, wood
+Neoclassical, government building, granite
+Art Deco, religious building, glass
+Baroque, library, steel
+Victorian, palace, brick
+Baroque, skyscraper, stone
+Romanesque, library, stone
+Modernist, stadium, glass
+Modernist, palace, marble
+Victorian, stadium, steel
+Baroque, monument, stone
+Romanesque, museum, steel
+Neoclassical, museum, steel
+Baroque, monument, wood
+Gothic, palace, wood
+Renaissance, monument, steel
+Victorian, government building, wood
+Neoclassical, monument, marble
+Romanesque, museum, stone
+Romanesque, government building, marble
+Art Deco, museum, concrete
+Gothic, skyscraper, wood
+Baroque, government building, stone
+Art Deco, monument, wood
+Victorian, monument, granite
+Art Deco, government building, wood
+Renaissance, religious building, steel
+Gothic, museum, concrete
+Art Deco, palace, marble
+Neoclassical, stadium, brick
+Victorian, government building, glass
+Baroque, monument, glass
+Modernist, government building, brick
+Victorian, religious building, steel
+Modernist, monument, glass
+Gothic, religious building, marble
+Modernist, government building, glass
+Neoclassical, museum, brick
+Art Deco, museum, granite
+Baroque, stadium, glass
+Renaissance, palace, marble
+Victorian, palace, marble
+Modernist, palace, concrete
+Modernist, stadium, concrete
+Romanesque, library, brick
+Gothic, museum, steel
+Neoclassical, government building, glass
+Neoclassical, museum, steel
+Baroque, religious building, concrete
+Modernist, stadium, steel
+Victorian, museum, glass
+Renaissance, stadium, granite
+Gothic, religious building, granite
+Modernist, library, granite
+Romanesque, skyscraper, marble
+Art Deco, palace, wood
+Victorian, religious building, marble
+Victorian, palace, steel
+Neoclassical, museum, steel
+Neoclassical, library, granite
+Renaissance, library, stone
+Modernist, religious building, brick
+Victorian, monument, stone
+Art Deco, monument, marble
+Neoclassical, palace, granite
+Renaissance, palace, wood
+Romanesque, library, brick
+Romanesque, monument, brick
+Neoclassical, palace, concrete
+Neoclassical, monument, stone
+Art Deco, stadium, wood
+Romanesque, monument, concrete
+Renaissance, palace, stone
+Gothic, museum, wood
+Art Deco, religious building, glass
+Gothic, religious building, glass
+Renaissance, stadium, wood
+Neoclassical, skyscraper, brick
+Victorian, museum, marble
+Modernist, library, marble
+Renaissance, library, brick
+Gothic, stadium, brick
+Renaissance, library, stone
+Victorian, library, steel
+Art Deco, library, marble
+Gothic, government building, marble
+Modernist, monument, glass
+Neoclassical, religious building, granite
+Neoclassical, museum, concrete
+Baroque, skyscraper, marble
+Modernist, government building, wood
+Art Deco, museum, wood
+Art Deco, palace, concrete
+Renaissance, skyscraper, glass
+Romanesque, monument, marble
+Baroque, skyscraper, glass
+Renaissance, museum, glass
+Gothic, library, brick
+Gothic, museum, glass
+Modernist, religious building, wood
+Romanesque, skyscraper, wood
+Romanesque, museum, concrete
+Neoclassical, government building, glass
+Neoclassical, library, marble
+Romanesque, palace, marble
+Renaissance, library, stone
+Gothic, stadium, marble
+Neoclassical, monument, marble
+Gothic, monument, marble
+Romanesque, skyscraper, brick
+Modernist, religious building, wood
+Neoclassical, stadium, stone
+Neoclassical, library, wood
+Romanesque, religious building, glass
+Romanesque, museum, marble
+Baroque, stadium, steel
+Modernist, library, glass
+Baroque, monument, steel
+Modernist, monument, brick
+Baroque, museum, wood
+Renaissance, skyscraper, granite
+Neoclassical, monument, granite
+Art Deco, palace, marble
+Neoclassical, museum, marble
+Neoclassical, palace, glass
+Modernist, museum, brick
+Baroque, skyscraper, stone
+Neoclassical, museum, stone
+Romanesque, palace, stone
+Baroque, skyscraper, wood
+Gothic, skyscraper, wood
+Art Deco, stadium, steel
+Renaissance, religious building, glass
+Neoclassical, museum, stone
+Art Deco, palace, wood
+Gothic, palace, concrete
+Victorian, monument, wood
+Neoclassical, skyscraper, brick
+Victorian, museum, brick
+Baroque, palace, stone
+Renaissance, stadium, concrete
+Victorian, museum, stone
+Victorian, government building, stone
+Renaissance, religious building, wood
+Gothic, stadium, granite
+Renaissance, palace, glass
+Gothic, stadium, granite
+Victorian, monument, glass
+Victorian, monument, concrete
+Baroque, monument, granite
+Art Deco, religious building, granite
+Romanesque, museum, glass
+Baroque, palace, glass
+Renaissance, museum, concrete
+Romanesque, palace, granite
+Art Deco, library, brick
+Modernist, museum, concrete
+Modernist, skyscraper, granite
+Neoclassical, government building, marble
+Neoclassical, library, wood
+Art Deco, monument, glass
+Gothic, library, granite
+Neoclassical, museum, glass
+Modernist, library, granite
+Modernist, monument, brick
+Art Deco, museum, stone
+Victorian, skyscraper, granite
+Art Deco, monument, granite
+Art Deco, library, glass
+Baroque, palace, glass
+Romanesque, religious building, marble
+Victorian, religious building, wood
+Art Deco, monument, glass
+Modernist, palace, marble
+Art Deco, stadium, steel
+Romanesque, government building, granite
+Renaissance, skyscraper, wood
+Victorian, museum, marble
+Modernist, monument, stone
+Baroque, monument, granite
+Neoclassical, stadium, wood
+Romanesque, skyscraper, steel
+Baroque, religious building, wood
+Baroque, religious building, concrete
+Victorian, monument, marble
+Art Deco, religious building, wood
+Renaissance, government building, glass
+Victorian, monument, brick
+Renaissance, stadium, wood
+Renaissance, museum, glass
+Art Deco, museum, granite
+Baroque, religious building, wood
+Modernist, religious building, granite
+Gothic, skyscraper, granite
+Gothic, monument, stone
+Victorian, skyscraper, concrete
+Baroque, religious building, wood
+Neoclassical, religious building, stone
+Art Deco, palace, brick
+Modernist, library, granite
+Baroque, library, wood
+Renaissance, museum, wood
+Art Deco, palace, granite
+Victorian, palace, glass
+Baroque, skyscraper, glass
+Renaissance, museum, glass
+Renaissance, government building, wood
+Art Deco, government building, steel
+Romanesque, religious building, granite
+Modernist, museum, concrete
+Art Deco, government building, steel
+Baroque, library, steel
+Modernist, skyscraper, wood
+Gothic, government building, marble
+Neoclassical, stadium, brick
+Gothic, government building, glass
+Renaissance, skyscraper, concrete
+Romanesque, museum, steel
+Renaissance, monument, brick
+Romanesque, palace, marble
+Modernist, stadium, concrete
+Modernist, government building, stone
+Victorian, library, steel
+Baroque, skyscraper, granite
+Victorian, museum, wood
+Gothic, skyscraper, concrete
+Romanesque, stadium, brick
+Renaissance, library, steel
+Modernist, stadium, brick
+Renaissance, religious building, marble
+Renaissance, palace, wood
+Baroque, museum, brick
+Gothic, monument, brick
+Neoclassical, library, glass
+Gothic, religious building, marble
+Gothic, museum, granite
+Romanesque, museum, granite
+Modernist, religious building, wood
+Baroque, palace, marble
+Art Deco, monument, stone
+Romanesque, religious building, wood
+Baroque, palace, glass
+Victorian, museum, concrete
+Renaissance, stadium, granite
+Victorian, library, steel
+Gothic, monument, glass
+Art Deco, stadium, brick
+Gothic, religious building, steel
+Baroque, stadium, brick
+Victorian, government building, concrete
+Art Deco, library, glass
+Victorian, library, stone
+Art Deco, government building, marble
+Modernist, monument, marble
+Gothic, library, brick
+Baroque, stadium, granite
+Modernist, museum, concrete
+Romanesque, palace, granite
+Neoclassical, monument, marble
+Art Deco, monument, wood
+Art Deco, museum, granite
+Renaissance, skyscraper, steel
+Victorian, palace, concrete
+Art Deco, skyscraper, wood
+Victorian, religious building, concrete
+Victorian, museum, glass
+Baroque, skyscraper, brick
+Renaissance, palace, marble
+Modernist, palace, steel
+Gothic, museum, steel
+Romanesque, skyscraper, glass
+Renaissance, government building, marble
+Modernist, stadium, wood
+Modernist, skyscraper, concrete
+Modernist, library, stone
+Art Deco, palace, glass
+Art Deco, religious building, steel
+Neoclassical, monument, steel
+Baroque, palace, concrete
+Modernist, skyscraper, steel
+Baroque, monument, stone
+Romanesque, monument, wood
+Modernist, religious building, stone
+Gothic, museum, steel
+Gothic, stadium, stone
+Gothic, religious building, stone
+Gothic, skyscraper, concrete
+Neoclassical, stadium, steel
+Victorian, skyscraper, steel
+Renaissance, palace, glass
+Victorian, stadium, stone
+Renaissance, monument, wood
+Modernist, palace, concrete
+Romanesque, library, marble
+Neoclassical, skyscraper, steel
+Neoclassical, religious building, concrete
+Modernist, skyscraper, marble
+Gothic, monument, glass
+Art Deco, religious building, marble
+Gothic, monument, steel
+Modernist, palace, brick
+Neoclassical, skyscraper, concrete
+Art Deco, monument, steel
+Art Deco, religious building, glass
+Gothic, museum, steel
+Modernist, government building, concrete
+Baroque, religious building, granite
+Renaissance, palace, concrete
+Gothic, government building, concrete
+Renaissance, library, granite
+Neoclassical, monument, stone
+Gothic, stadium, wood
+Romanesque, religious building, steel
+Renaissance, government building, glass
+Modernist, religious building, wood
+Art Deco, stadium, glass
+Victorian, monument, wood
+Art Deco, stadium, glass
+Renaissance, government building, marble
+Art Deco, library, steel
+Victorian, monument, glass
+Modernist, palace, concrete
+Modernist, library, stone
+Baroque, palace, wood
+Baroque, monument, wood
+Neoclassical, library, brick
+Art Deco, religious building, wood
+Art Deco, library, steel
+Modernist, museum, steel
+Art Deco, monument, glass
+Victorian, skyscraper, glass
+Modernist, skyscraper, glass
+Art Deco, stadium, glass
+Renaissance, skyscraper, wood
+Neoclassical, religious building, marble
+Romanesque, government building, concrete
+Art Deco, stadium, brick
+Gothic, stadium, stone
+Romanesque, monument, wood
+Romanesque, palace, concrete
+Romanesque, monument, concrete
+Victorian, stadium, wood
+Neoclassical, stadium, granite
+Romanesque, government building, brick
+Neoclassical, religious building, glass
+Renaissance, museum, stone
+Modernist, monument, brick
+Romanesque, palace, wood
+Baroque, religious building, stone
+Victorian, religious building, brick
+Gothic, skyscraper, wood
+Romanesque, stadium, brick
+Art Deco, monument, stone
+Renaissance, skyscraper, glass
+Baroque, library, concrete
+Victorian, skyscraper, marble
+Modernist, monument, glass
+Romanesque, skyscraper, wood
+Renaissance, government building, brick
+Baroque, skyscraper, wood
+Romanesque, museum, brick
+Renaissance, monument, brick
+Victorian, government building, brick
+Baroque, museum, wood
+Renaissance, stadium, steel
+Gothic, palace, steel
+Gothic, library, steel
+Romanesque, museum, wood
+Modernist, palace, glass
+Gothic, stadium, steel
+Art Deco, library, glass
+Renaissance, stadium, steel
+Renaissance, stadium, brick
+Gothic, government building, brick
+Art Deco, stadium, concrete
+Romanesque, palace, concrete
+Victorian, museum, steel
+Baroque, monument, glass
+Neoclassical, museum, stone
+Victorian, religious building, granite
+Neoclassical, monument, stone
+Gothic, government building, wood
+Gothic, skyscraper, marble
+Renaissance, monument, concrete
+Neoclassical, monument, marble
+Gothic, monument, glass
+Gothic, palace, stone
+Neoclassical, government building, stone
+Baroque, palace, concrete
+Gothic, museum, concrete
+Modernist, government building, marble
+Renaissance, palace, stone
+Art Deco, government building, concrete
+Modernist, religious building, marble
+Neoclassical, stadium, stone
+Modernist, stadium, marble
+Renaissance, library, steel
+Neoclassical, palace, concrete
+Baroque, library, wood
+Victorian, museum, concrete
+Modernist, skyscraper, granite
+Modernist, government building, wood
+Modernist, religious building, brick
+Victorian, stadium, wood
+Romanesque, skyscraper, concrete
+Baroque, skyscraper, concrete
+Neoclassical, skyscraper, brick
+Romanesque, government building, brick
+Art Deco, government building, stone
+Romanesque, monument, stone
+Victorian, museum, steel
+Victorian, religious building, stone
+Modernist, library, steel
+Romanesque, religious building, steel
+Art Deco, library, concrete
+Gothic, government building, wood
+Gothic, museum, stone
+Romanesque, monument, brick
+Modernist, stadium, brick
+Baroque, skyscraper, granite
+Romanesque, religious building, concrete
+Baroque, library, brick
+Romanesque, library, steel
+Modernist, skyscraper, stone
+Renaissance, museum, concrete
+Baroque, palace, granite
+Victorian, monument, concrete
+Art Deco, stadium, glass
+Baroque, skyscraper, steel
+Romanesque, religious building, wood
+Neoclassical, monument, stone
+Gothic, palace, marble
+Renaissance, stadium, wood
+Renaissance, library, steel
+Neoclassical, religious building, wood
+Romanesque, religious building, marble
+Romanesque, stadium, granite
+Neoclassical, monument, wood
+Renaissance, skyscraper, stone
+Renaissance, palace, brick
+Victorian, palace, brick
+Art Deco, government building, granite
+Renaissance, museum, brick
+Romanesque, museum, brick
+Art Deco, museum, brick
+Neoclassical, museum, steel
+Renaissance, government building, steel
+Art Deco, palace, concrete
+Renaissance, stadium, glass
+Gothic, religious building, concrete
+Modernist, library, steel
+Renaissance, library, wood
+Modernist, library, glass
+Baroque, religious building, steel
+Neoclassical, library, marble
+Neoclassical, government building, stone
+Renaissance, religious building, steel
+Gothic, skyscraper, steel
+Renaissance, monument, granite
+Renaissance, stadium, stone
+Art Deco, library, steel
+Baroque, skyscraper, marble
+Baroque, government building, wood
+Gothic, religious building, concrete
+Neoclassical, stadium, wood
+Victorian, skyscraper, concrete
+Renaissance, government building, granite
+Modernist, monument, brick
+Romanesque, palace, glass
+Renaissance, religious building, stone
+Renaissance, stadium, brick
+Baroque, museum, stone
+Renaissance, government building, stone
+Baroque, skyscraper, concrete
+Baroque, stadium, concrete
+Romanesque, monument, stone
+Victorian, religious building, granite
+Modernist, skyscraper, marble
