@@ -3,10 +3,12 @@
 from __future__ import annotations
 
 import dataclasses
+import importlib.metadata
 import logging
 import shlex
 import subprocess
 import sys
+from collections.abc import Iterable
 from functools import lru_cache
 from pathlib import Path
 
@@ -30,32 +32,42 @@ try:
     from packaging.requirements import Requirement
 except ImportError:
     # pip has had this since 2018
-    from pip._vendor.packaging.requirements import Requirement
+    from pip._vendor.packaging.requirements import (  # type: ignore[assignment]
+        Requirement,
+    )
 
 logger = logging.getLogger(__name__)
 
 
 @dataclasses.dataclass
 class InstallResult:
-    requirement: str
-    specifier: str
-    installed: str
-    correct: bool
+    requirement: Requirement
+    installed: str | None
 
     @property
     def message(self) -> str | None:
         if self.correct:
             return None
         return (
-            f"You have dynamicprompts {self.installed} installed, "
-            f"but this extension requires {self.specifier}. "
+            f"You have {self.requirement.name} version {self.installed or 'not'} installed, "
+            f"but this extension requires version {self.requirement.specifier}. "
             f"Please run `install.py` from the sd-dynamic-prompts extension directory, "
             f"or `{self.pip_install_command}`."
         )
 
     @property
+    def specifier_str(self) -> str:
+        return str(self.requirement)
+
+    @property
+    def correct(self) -> bool:
+        return bool(
+            self.installed and self.requirement.specifier.contains(self.installed),
+        )
+
+    @property
     def pip_install_command(self) -> str:
-        return f"pip install {self.requirement}"
+        return f"pip install {self.specifier_str}"
 
     def raise_if_incorrect(self) -> None:
         message = self.message
@@ -64,33 +76,40 @@ class InstallResult:
 
 
 @lru_cache(maxsize=1)
-def get_requirements() -> tuple[str]:
+def get_requirements() -> tuple[str, ...]:
     toml_text = (Path(__file__).parent.parent / "pyproject.toml").read_text()
-    return tuple(tomli.loads(toml_text)["project"]["dependencies"])
+    deps = tomli.loads(toml_text)["project"]["dependencies"]
+    return tuple(str(dep) for dep in deps)
 
 
-def get_dynamic_prompts_requirement() -> Requirement | None:
-    for req in get_requirements():
-        if req.startswith("dynamicprompts"):
-            return Requirement(req)
-    return None
+def get_install_result(req_str: str) -> InstallResult:
+    req = Requirement(req_str)
+    try:
+        installed_version = importlib.metadata.version(req.name)
+    except ImportError:
+        installed_version = None
+    res = InstallResult(requirement=req, installed=installed_version)
+    return res
+
+
+def get_requirements_install_results() -> Iterable[InstallResult]:
+    """
+    Get InstallResult objects for all requirements.
+    """
+    return (get_install_result(req_str) for req_str in get_requirements())
 
 
 def get_dynamicprompts_install_result() -> InstallResult:
-    import dynamicprompts
-
-    dp_req = get_dynamic_prompts_requirement()
-    if not dp_req:
-        raise RuntimeError("dynamicprompts requirement not found")
-    return InstallResult(
-        requirement=str(dp_req),
-        specifier=str(dp_req.specifier),
-        installed=dynamicprompts.__version__,
-        correct=(dynamicprompts.__version__ in dp_req.specifier),
-    )
+    """
+    Get the InstallResult for the dynamicprompts requirement.
+    """
+    for req in get_requirements():
+        if req.startswith("dynamicprompts"):
+            return get_install_result(req)
+    raise RuntimeError("dynamicprompts requirement not found")
 
 
-def install_requirements() -> None:
+def install_requirements(force=False) -> None:
     """
     Invoke pip to install the requirements for the extension.
     """
@@ -104,21 +123,30 @@ def install_requirements() -> None:
             return
     except ImportError:
         pass
+
+    requirements_to_install = [
+        str(ires.requirement)
+        for ires in get_requirements_install_results()
+        if (force or not ires.correct)
+    ]
+
+    if not requirements_to_install:
+        return
+
     command = [
         sys.executable,
         "-m",
         "pip",
         "install",
-        *get_requirements(),
+        *requirements_to_install,
     ]
     print(f"sd-dynamic-prompts installer: running {shlex.join(command)}")
     subprocess.check_call(command)
 
 
 def selftest() -> None:
-    res = get_dynamicprompts_install_result()
-    print(res)
-    res.raise_if_incorrect()
+    for res in get_requirements_install_results():
+        print("[OK]" if res.correct else "????", res.requirement, res)
 
 
 if __name__ == "__main__":

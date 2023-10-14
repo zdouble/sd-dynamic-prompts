@@ -1,6 +1,8 @@
 # Stable Diffusion Dynamic Prompts extension
 A custom extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) that implements an expressive template language for random or combinatorial prompt generation along with features to support deep wildcard directory structures.
 
+Looking for ComfyUI nodes? Find them [here](https://github.com/adieyal/comfyui-dynamicprompts).
+
 <p align="center">
     <a href="docs/SYNTAX.md"><img src="images/icon-syntax.png" valign="middle" style="height:60px;margin-right:10px"/></a>
     <a href="docs/tutorial.md"><img src="images/icon-tutorial.png" valign="middle" style="height:60px;margin-right:10px"/></a>
@@ -74,18 +76,7 @@ Prefer a tutorial? <a href="docs/tutorial.md">Click here</a><br/>
 Need a wildcard library? We've got you [covered](https://github.com/adieyal/sd-dynamic-prompts#collections).<br/>
 
 ## Online resources
-* 📽️ [아무것도 생각 안 하고 그림 뽑는 방법 (stable diffusion Dynamic Prompts extension)](https://www.youtube.com/watch?v=P6Tl5sMUJpk)
-* 📽️ [Dynamic Prompt Tutorial: How to Create Multiple Art Variations with just 1 Prompt Stable Diffusion](https://www.youtube.com/watch?v=5wH7zioje4w)
-* 📽️ [Experiment with Prompts FAST in Stable Diffusion](https://www.youtube.com/watch?v=5ZiL4iG0FJk)
-* [Having a blast with ControlNet + Dynamic Prompts (Wildcards)](https://www.reddit.com/r/StableDiffusion/comments/115t0pi/having_a_blast_with_controlnet_dynamic_prompts/)
-* [Infinite Random RPG Character Portraits with Dynamic Prompts](https://www.reddit.com/r/StableDiffusion/comments/10xqwjm/i_come_bearing_gifts_infinite_random_rpg/)
-* [256 unique characters created with dynamic prompts ](https://www.reddit.com/r/StableDiffusion/comments/106hxm1/256_unique_characters_created_with_dynamic/)
-* [Use ChatGPT to create powerful and useful wildcards with the Dynamic Prompts extension](https://www.reddit.com/r/StableDiffusion/comments/10m6b4a/use_chatgpt_to_create_powerful_and_useful/)
-* [200 Character/outfit designs from a single prompt using Dynamic Prompts and Prompt Editing](https://www.reddit.com/r/StableDiffusion/comments/1080xyy/200_characteroutfit_designs_from_a_single_prompt/)
-* [Dynamic Prompts and Jinja2 templates in Automatic 1111](https://www.reddit.com/r/StableDiffusion/comments/10jgmtk/dynamic_prompts_and_jinja2_templates_in_automatic/)
-* [Testing Dynamic Prompts extension to mix and match elements](https://www.reddit.com/r/StableDiffusion/comments/10gkm1c/testing_dynamic_prompts_extension_to_mix_and/)
-* [How to Turbocharge your prompts using AUTOMATIC1111 WebUI dynamic prompts extension](https://www.reddit.com/r/StableDiffusion/comments/ynztiz/how_to_turbocharge_your_prompts_using/)
-* [Dynamic prompts for Automatic1111 is so incredibly powerful, these are all from the same prompt!](https://www.reddit.com/r/StableDiffusion/comments/zacjhk/dynamic_prompts_for_automatic1111_is_so/)
+You can find a list of tutorials and wildcard packs [here](docs/resources.md)
 
 ## Installation
 
@@ -97,11 +88,25 @@ You can also install it manually by running the following command from within th
 	git clone https://github.com/adieyal/sd-dynamic-prompting/ extensions/dynamic-prompts
 
 ## Configuration
+You can find various settings to change Dynamic Prompt's behaviour in the Settings tab in the Dynamic Prompts section.
+
+### Changing syntax
 In case of a syntax clash with another extension, Dynamic Prompts allows you to change the definition of variant start and variant end. By default these are set to `{` and `}` respectively. , e.g. `{red|green|blue}`. In the settings tab, you can change these two any string, e.g. `<red|green|blue>` or even `::red|green|blue::`.
 
 <img src="images/config_brackets.png">
 
 By default, wildcards start with `__`(double underscore) and end with `__`. You can change this in the settings tab under wildcard wrap.
+<br/><br/>
+
+### Wildcard settings
+<img src="images/config_autopurge.png">
+
+Dynamic Prompts automatically de-duplicates and sorts wildcard files before using them. If you would prefer to disable this functionality, you can uncheck the checkboxes in the settings tab.
+
+<img src="images/wildcard_settings.png">
+
+Checking the "shuffle wildcards" checkbox will randomize the order of the wildcards, ensuring that running the combinatorial model will produce different images on different runs.
+
 
 ## Troubleshooting
 If you encounter an issue with Dynamic Prompts, follow these steps to resolve the problem:

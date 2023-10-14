@@ -1,5 +1,5 @@
 # Jinja2 templates
-Jinja2 templates is an experimental feature that enables you to write prompts with an expressive templating language. This is an advanced feature and is only recommended for users who are comfortable writing scripts.
+The Jinja2 feature enable you to write prompts using an expressive templating language. This is an advanced feature and is only recommended for users who are comfortable writing scripts.
 
 To enable the feature, open the advanced accordion and select __Enable Jinja2 templates__.
 <img src="images/jinja_templates.png">
@@ -267,6 +267,16 @@ You can use the following variables in your templates:
 If you are using these templates, please let me know if they are useful.
 
 ## Cookbook
+
+### Conditional Rendering
+Render different prompts determined by a variable
+
+```jinja2
+{% with season = choice("winter", "summer") %}
+    {% set dress_color = "blue" if season == "winter" else "red" %}
+    A fashion model wearing a {{ dress_color }} dress
+{% endwith %}
+```
 
 ### [Prompt Editing](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#prompt-editing)
 

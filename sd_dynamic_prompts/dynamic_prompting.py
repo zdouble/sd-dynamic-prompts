@@ -3,7 +3,6 @@ from __future__ import annotations
 import logging
 import math
 from functools import lru_cache
-from pathlib import Path
 from string import Template
 
 import dynamicprompts
@@ -13,7 +12,6 @@ import torch
 from dynamicprompts.generators.promptgenerator import GeneratorException
 from dynamicprompts.parser.parse import ParserConfig
 from dynamicprompts.wildcards import WildcardManager
-from modules import devices
 from modules.processing import fix_seed
 from modules.shared import opts
 
@@ -22,10 +20,15 @@ from sd_dynamic_prompts.element_ids import make_element_id
 from sd_dynamic_prompts.generator_builder import GeneratorBuilder
 from sd_dynamic_prompts.helpers import (
     generate_prompts,
-    get_magicmodels_path,
     get_seeds,
     load_magicprompt_models,
+    repeat_iterable_to_length,
     should_freeze_prompt,
+)
+from sd_dynamic_prompts.paths import (
+    get_extension_base_path,
+    get_magicprompt_models_txt_path,
+    get_wildcard_dir,
 )
 from sd_dynamic_prompts.pnginfo_saver import PngInfoSaver
 from sd_dynamic_prompts.prompt_writer import PromptWriter
@@ -40,30 +43,10 @@ is_debug = getattr(opts, "is_debug", False)
 if is_debug:
     logger.setLevel(logging.DEBUG)
 
-base_dir = Path(scripts.basedir())
-magicprompt_models_path = get_magicmodels_path(base_dir)
-
-
-def get_wildcard_dir() -> Path:
-    wildcard_dir = getattr(opts, "wildcard_dir", None)
-    if wildcard_dir is None:
-        wildcard_dir = base_dir / "wildcards"
-    wildcard_dir = Path(wildcard_dir)
-    try:
-        wildcard_dir.mkdir(parents=True, exist_ok=True)
-    except Exception:
-        logger.exception(f"Failed to create wildcard directory {wildcard_dir}")
-    return wildcard_dir
-
 
 def _get_effective_prompt(prompts: list[str], prompt: str) -> str:
     return prompts[0] if prompts else prompt
 
-
-device = devices.device
-# There might be a bug in auto1111 where the correct device is not inferred in some scenarios
-if device.type == "cuda" and not device.index:
-    device = torch.device("cuda:0")
 
 loaded_count = 0
 
@@ -79,6 +62,26 @@ def _get_install_error_message() -> str | None:
     except Exception:
         logger.exception("Failed to get dynamicprompts install result")
     return None
+
+
+def _get_hr_fix_prompts(
+    prompts: list[str],
+    original_hr_prompt: str,
+    original_prompt: str,
+) -> list[str]:
+    if original_prompt == original_hr_prompt:
+        return list(prompts)
+    return repeat_iterable_to_length([original_hr_prompt], len(prompts))
+
+
+def get_magic_prompt_device() -> torch.device:
+    from modules import devices
+
+    device = devices.device
+    # There might be a bug in auto1111 where the correct device is not inferred in some scenarios
+    if device.type == "cuda" and not device.index:
+        device = torch.device("cuda:0")
+    return device
 
 
 class Script(scripts.Script):
@@ -113,6 +116,7 @@ class Script(scripts.Script):
         return scripts.AlwaysVisible
 
     def ui(self, is_img2img):
+        base_dir = get_extension_base_path()
         install_message = _get_install_error_message()
         correct_lib_version = bool(not install_message)
 
@@ -172,9 +176,7 @@ class Script(scripts.Script):
                 with gr.Accordion("Prompt Magic", open=False):
                     with gr.Group():
                         try:
-                            magicprompt_models = load_magicprompt_models(
-                                magicprompt_models_path,
-                            )
+                            magicprompt_models = load_magicprompt_models()
                             default_magicprompt_model = (
                                 opts.dp_magicprompt_default_model
                                 if hasattr(opts, "dp_magicprompt_default_model")
@@ -183,7 +185,8 @@ class Script(scripts.Script):
                             is_magic_model_available = True
                         except IndexError:
                             logger.warning(
-                                f"The magicprompts config file at {magicprompt_models_path} does not contain any models.",
+                                f"The magic prompts config file {get_magicprompt_models_txt_path()} "
+                                f"does not contain any models.",
                             )
 
                             magicprompt_models = []
@@ -346,23 +349,23 @@ class Script(scripts.Script):
     def process(
         self,
         p,
-        is_enabled,
-        is_combinatorial,
-        combinatorial_batches,
-        is_magic_prompt,
-        is_feeling_lucky,
-        is_attention_grabber,
-        min_attention,
-        max_attention,
-        magic_prompt_length,
-        magic_temp_value,
-        use_fixed_seed,
-        unlink_seed_from_prompt,
-        disable_negative_prompt,
-        enable_jinja_templates,
-        no_image_generation,
-        max_generations,
-        magic_model,
+        is_enabled: bool,
+        is_combinatorial: bool,
+        combinatorial_batches: int,
+        is_magic_prompt: bool,
+        is_feeling_lucky: bool,
+        is_attention_grabber: bool,
+        min_attention: float,
+        max_attention: float,
+        magic_prompt_length: int,
+        magic_temp_value: float,
+        use_fixed_seed: bool,
+        unlink_seed_from_prompt: bool,
+        disable_negative_prompt: bool,
+        enable_jinja_templates: bool,
+        no_image_generation: bool,
+        max_generations: int,
+        magic_model: str | None,
         magic_blocklist_regex: str | None,
     ):
         if not is_enabled:
@@ -375,6 +378,10 @@ class Script(scripts.Script):
         self._prompt_writer.enabled = opts.dp_write_prompts_to_file
         self._limit_jinja_prompts = opts.dp_limit_jinja_prompts
         self._auto_purge_cache = opts.dp_auto_purge_cache
+        self._wildcard_manager.dedup_wildcards = not opts.dp_wildcard_manager_no_dedupe
+        self._wildcard_manager.sort_wildcards = not opts.dp_wildcard_manager_no_sort
+        self._wildcard_manager.shuffle_wildcards = opts.dp_wildcard_manager_shuffle
+
         magicprompt_batch_size = opts.dp_magicprompt_batch_size
 
         parser_config = ParserConfig(
@@ -447,7 +454,7 @@ class Script(scripts.Script):
                     magic_temp_value=magic_temp_value,
                     magic_blocklist_regex=magic_blocklist_regex,
                     batch_size=magicprompt_batch_size,
-                    device=device,
+                    device=get_magic_prompt_device(),
                 )
                 .set_is_dummy(False)
                 .set_unlink_seed_from_prompt(unlink_seed_from_prompt)
@@ -476,12 +483,12 @@ class Script(scripts.Script):
                 all_seeds = p.all_seeds
 
             all_prompts, all_negative_prompts = generate_prompts(
-                generator,
-                negative_generator,
-                original_prompt,
-                original_negative_prompt,
-                num_images,
-                all_seeds,
+                prompt_generator=generator,
+                negative_prompt_generator=negative_generator,
+                prompt=original_prompt,
+                negative_prompt=original_negative_prompt,
+                num_prompts=num_images,
+                seeds=all_seeds,
             )
 
         except GeneratorException as e:
@@ -525,13 +532,13 @@ class Script(scripts.Script):
         p.prompt = original_prompt
 
         if hr_fix_enabled:
-            p.all_hr_prompts = (
-                all_prompts
-                if original_prompt == original_hr_prompt
-                else len(all_prompts) * [original_hr_prompt]
+            p.all_hr_prompts = _get_hr_fix_prompts(
+                all_prompts,
+                original_hr_prompt,
+                original_prompt,
             )
-            p.all_hr_negative_prompts = (
-                all_negative_prompts
-                if original_negative_prompt == original_negative_hr_prompt
-                else len(all_negative_prompts) * [original_negative_hr_prompt]
+            p.all_hr_negative_prompts = _get_hr_fix_prompts(
+                all_negative_prompts,
+                original_negative_hr_prompt,
+                original_negative_prompt,
             )
