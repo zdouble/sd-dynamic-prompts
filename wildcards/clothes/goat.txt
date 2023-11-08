@@ -1,1 +1,7 @@
 china_dress
+tuxedo
+formal_dress
+evening_gown
+japanese_clothes
+kimono
+sleeveless_kimono
